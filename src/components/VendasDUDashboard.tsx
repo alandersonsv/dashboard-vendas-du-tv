@@ -20,7 +20,6 @@ const ROWS_CONFIG: RowDef[] = [
   { id: 'Originado', label: 'Originado', format: 'integer' },
   { id: 'Online B2C', label: 'Online B2C', format: 'integer' },
   { id: '% Online', label: '% Online', format: 'percent' },
-  { id: 'Investimento', label: 'Investimento', format: 'currency_int' },
   { id: 'CPA', label: 'CPA', format: 'currency_decimal' },
 ];
 

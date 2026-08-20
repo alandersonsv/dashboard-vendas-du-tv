@@ -1,0 +1,8 @@
+{
+  "name": "Vendas LABEST - TV Version",
+  "description": "DASHBOARD VENDAS TV SALÃO",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
